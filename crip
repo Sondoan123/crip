@@ -90,7 +90,7 @@ if (headerbuilders !== undefined){
             console.log(`[Info] Threads ${i} Started Attacking`);
         }
         console['log']('──────▄▀▄─────▄▀▄'['yellow']['bold']);
-        console['log']('─────▄█░░▀▀▀▀▀░░█▄'['yellow']['bold']);       
+        console['log']('─────▄█░░▀▀:▀▀▀░░█▄'['yellow']['bold']);       
         console['log']('─▄▄──█░░░░░░░░░░░█──▄▄[Info] NOW ATTACKED | HTTP2 FLOODER'['yellow']['bold']); 
         console['log']('█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█'['yellow']['bold']);
     
